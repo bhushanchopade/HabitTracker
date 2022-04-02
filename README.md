@@ -1,7 +1,8 @@
 # HabitTracker
 
-Live Host link :
-Git repository clone link : 
+- Live Host link :
+
+- Git repository clone link : https://github.com/bhushanchopade/HabitTracker.git
 
 HabitTracker is a React/Redux application that runs in the browser using local storage as its database -- so each user's data is their own (private). Users can:  
 
