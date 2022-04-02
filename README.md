@@ -1,6 +1,6 @@
 # HabitTracker
 
-- Live Host link :
+- Live Host link : https://habittrackerbhushan.netlify.app/
 
 - Git repository clone link : https://github.com/bhushanchopade/HabitTracker.git
 
